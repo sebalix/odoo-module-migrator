@@ -1,0 +1,7 @@
+- ['stock.move', 'move_line_nosuggest_ids', 'Commit https://github.com/odoo/odoo/commit/7dda6bb92715ea25b2818a62fec5e646f3678b81']
+- ['stock.move', 'show_reserved_availability', 'Commit https://github.com/odoo/odoo/commit/7dda6bb92715ea25b2818a62fec5e646f3678b81']
+- ['stock.move', 'from_immediate_transfer', 'Commit https://github.com/odoo/odoo/commit/7dda6bb92715ea25b2818a62fec5e646f3678b81']
+- ['stock.move.line', 'is_initial_demand_editable', 'Commit https://github.com/odoo/odoo/commit/7dda6bb92715ea25b2818a62fec5e646f3678b81']
+- ['stock.picking', 'immediate_transfer', 'Commit https://github.com/odoo/odoo/commit/7dda6bb92715ea25b2818a62fec5e646f3678b81']
+- ['stock.picking', 'show_validate', 'Commit https://github.com/odoo/odoo/commit/7dda6bb92715ea25b2818a62fec5e646f3678b81']
+- ['stock.picking', 'move_line_nosuggest_ids', 'Commit https://github.com/odoo/odoo/commit/7dda6bb92715ea25b2818a62fec5e646f3678b81']
